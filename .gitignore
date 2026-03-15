@@ -1,0 +1,30 @@
+# Environment
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Model artefacts — train locally, don't commit large binaries
+ml_pipeline/models/*.pkl
+
+# Data — raw CSVs may contain PII
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
