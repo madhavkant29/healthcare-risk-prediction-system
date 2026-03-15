@@ -158,9 +158,20 @@ No code changes needed — SQLAlchemy handles the rest.
 
 ## Screenshots
 
+### Login Page
 ![Login Page](assets/Screenshot%202026-03-15%20131933.png)
-![Register page](assets/Screenshot%202026-03-15%20132000.png)
+
+### Register Page
+![Register Page](assets/Screenshot%202026-03-15%20132000.png)
+
+### Authenticated
 ![Authenticated](assets/Screenshot%202026-03-15%20132016.png)
-![Predict page](assets/Screenshot%202026-03-15%20132031.png)
-![Dashboard page](assets/Screenshot%202026-03-15%20132044.png)
-![Batch Upload page](assets/Screenshot%202026-03-15%20132059.png)
+
+### Predict Page
+![Predict Page](assets/Screenshot%202026-03-15%20132031.png)
+
+### Dashboard Page
+![Dashboard Page](assets/Screenshot%202026-03-15%20132044.png)
+
+### Batch Upload Page
+![Batch Upload Page](assets/Screenshot%202026-03-15%20132059.png)
