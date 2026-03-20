@@ -175,3 +175,6 @@ No code changes needed — SQLAlchemy handles the rest.
 
 ### Batch Upload Page
 ![Batch Upload Page](assets/Screenshot%202026-03-15%20132059.png)
+
+### System Architecture 
+![Architecture](assets/IMG-20260313-WA0005.jpg)
