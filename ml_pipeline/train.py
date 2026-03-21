@@ -2,7 +2,9 @@
 Training pipeline:
 - Stratified 5-fold CV with SMOTE applied inside each fold
 - XGBoost multi-class (softprob)
-- Saves best model.pkl to ml_pipeline/models/
+- Saves best model.pkl to ml_pipeline/models
+
+XGBoost was chosen because it consistently wins on tabular medical data, natively supports class imbalance correction, trains fast on CPU, and produces exact SHAP explanations in real time
 """
 
 import pickle
